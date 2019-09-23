@@ -34,13 +34,13 @@ namespace FactoryUnitTest
                     };
                     Item i2 = new Item()
                     {
-                        Name = "Plater",
+                        Name = "Platter",
                         Price = 3000
                     };
 
                     Customer c1 = new Customer()
                     {
-                        FName = "Ali",
+                        FName = "Ali", 
                         LName = "Pourahrab",
                         Phone = "09122708441"
                     };
